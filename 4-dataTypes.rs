@@ -63,7 +63,7 @@ let some_char = 'a';
 print!("The value of character in string is {}, 
 Is the character really a string {}",some_char.to_string(),some_char().to_string == "a");  
 
-let my_name = "nouman azam".to_string(); 
+let my_name = "Attay Rasool".to_string(); 
 println!("This string contains my name {}", my_name);
 
 
